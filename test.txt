@@ -4,4 +4,6 @@ Change from staging env
 
 adding a change from dev
 
-adding change from detached head 
+adding change from detached head
+
+adding change from Talapas 
